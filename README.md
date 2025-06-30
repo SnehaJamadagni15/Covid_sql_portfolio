@@ -15,7 +15,7 @@ The queries include window functions, CTEs, temporary tables and views to effici
 
 ========================================
   
-GitHub:   https://github.com/https://github.com/SnehaJamadagni15/Covid_sql_portfolio/edit/main/README.md
+ GitHub:   https://github.com/SnehaJamadagni15/Covid_sql_portfolio/edit/main/README.md
 
  LinkedIn:  https://www.linkedin.com/in/https://www.linkedin.com/in/sneha-jamadagni/
  
